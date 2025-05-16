@@ -1,2 +1,8 @@
 # Ignore venv
 venv/
+
+# Ignore large files
+data/raw/news_data.csv
+
+# Ignore .env
+.env
